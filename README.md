@@ -7,6 +7,8 @@ An exercise in HTML, PHP and Javascript.
 * Show legal moves for knights when clicked
 * Move to location when legal location clicked
 
+* test update
+
 ![Chess board showing legal knight moves](board.png)
 
 
